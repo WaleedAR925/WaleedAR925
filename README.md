@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm a Front-End Developer 👋
 
-<!--
-**WaleedAR925/WaleedAR925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate focused on building interactive, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Task Manager App** — A React application featuring task creation, editing, deletion, completion, and search.
+- **Calculator App** — A calculator built with React.
+- **COVID-19 Information App** — A web application built with HTML, CSS, and JavaScript using an API.
+
+### 🎯 Currently Learning
+- Advanced JavaScript
+- Next Js
+- Redux Toolkit
+
+### 📫 Connect With Me
+- GitHub: https://github.com/WaleedAR925
+- LinkedIn: https://www.linkedin.com/in/waleed-abdul-rehman/
